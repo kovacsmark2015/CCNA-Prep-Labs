@@ -20,7 +20,7 @@ I'm about 40% done with the course and I plan to take the exam in January 2027.
 ## Tools
 
 - [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) for building and simulating the topologies
-- 
+
 ## [Credits](https://www.youtube.com/@JeremysITLab)
 
 All lab topologies and exercises come from **Jeremy's IT Lab** and his free CCNA course on YouTube. Go check out his channel.This repo is just my personal study record.
