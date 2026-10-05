@@ -27,6 +27,6 @@ I won't upload every lab from the course. This repo only contains the ones I fou
 2. Open the folder for the lab you want.
 3. Open the Packet Tracer file (`.pkt`) in Cisco Packet Tracer.
 
-## Credits
+## [Credits](https://www.youtube.com/@JeremysITLab)
 
 All lab topologies and exercises come from **Jeremy's IT Lab** and his free CCNA course on YouTube. Go check out his channel.This repo is just my personal study record.
