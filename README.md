@@ -1,8 +1,11 @@
 # CCNA-Prep-Labs
 
 Hands-on networking labs I completed while studying for the **Cisco CCNA (200-301)**, based on Jeremy's IT Lab's free CCNA course on YouTube.
+Each folder contains a packet tracer file completed, which was completed by me occasionally with the help of the instruction videos, a topology picture and a readme which contains a description of what I achieved.
 
 I won't upload every lab from the course. This repo only contains the ones I found most interesting or learned the most from.
+
+I'm about 40% done with the course and I plan to take the exam in January 2027.
 
 ## Labs
 
@@ -17,15 +20,6 @@ I won't upload every lab from the course. This repo only contains the ones I fou
 ## Tools
 
 - [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) for building and simulating the topologies
-
-## How to use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/kovacsmark2015/CCNA-Prep-Labs.git
-   ```
-2. Open the folder for the lab you want.
-3. Open the Packet Tracer file (`.pkt`) in Cisco Packet Tracer.
 
 ## [Credits](https://www.youtube.com/@JeremysITLab)
 
