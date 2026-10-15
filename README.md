@@ -16,6 +16,9 @@ I'm about 40% done with the course and I plan to take the exam in January 2027.
 | 18 | [Multilayer Switching](./Day%2018%20-%20Multilayer%20Switching) | Modifying an earlier lab with an L3 switch. |
 | 22 | [Rapid STP](./Day%2022%20-%20Rapid%20STP) | Configuring and verifying Rapid Spanning Tree Protocol |
 | 24 | [Floating Static Routes](./Day%2024%20-%20Floating%20Static%20Routes) | Backup routes using higher administrative distance |
+| 25 | [EIGRP](./Day%2025%20-%20EIGRP) | Dynamic routing with EIGRP and unequal-cost load balancing |
+| 28 | [OSPF](./Day%2028%20-%20OSPF) | Troubleshooting a single-area OSPF network |
+
 
 ## Tools
 
