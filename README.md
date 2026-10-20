@@ -18,7 +18,7 @@ I'm about 40% done with the course and I plan to take the exam in January 2027.
 | 24 | [Floating Static Routes](./Day%2024%20-%20Floating%20Static%20Routes) | Backup routes using higher administrative distance |
 | 25 | [EIGRP](./Day%2025%20-%20EIGRP) | Dynamic routing with EIGRP and unequal-cost load balancing |
 | 28 | [OSPF](./Day%2028%20-%20OSPF) | Troubleshooting a single-area OSPF network |
-| 30 | [TCP\&UDP](https://www.youtube.com/watch?v=LIEACBqlntY\&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ\&index=61) | Capturing packets and analyzing a connection and termination to GitHub |
+| 30 | [TCP\&UDP](./Day%2030%20-%20TCP&UDP%20Wireshark) | Capturing packets and analyzing a connection and termination to GitHub |
 
 ## Tools
 
