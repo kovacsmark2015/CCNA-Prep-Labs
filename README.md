@@ -4,7 +4,7 @@ Hands-on networking labs I completed while studying for the **Cisco CCNA (200-30
 Each folder contains a packet tracer file completed, which was completed by me occasionally with the help of the instruction videos, a topology picture and a readme which contains a description of what I achieved.
 
 - I won't upload every lab from the course. This repo only contains the ones I found most interesting or learned the most from.
-- The course contains 66 lessons with labs and Anki cards.
+- The course contains 63 lessons with labs and Anki cards.
 - I started in August 2026.
 - I plan to take the exam in January 2027.
 
