@@ -1,4 +1,7 @@
 # VLSM Subnetting Lab
+## Topology
+
+![Topology](topology.png)
 
 This lab was all about hands-on practice with subnetting, specifically VLSM (Variable Length Subnet Mask).
 

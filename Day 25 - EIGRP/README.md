@@ -1,4 +1,7 @@
 # EIGRP Lab: Dynamic Routing with Unequal-Cost Load Balancing
+## Topology
+
+![Topology](topology.png)
 
 ## Overview
 

@@ -1,4 +1,7 @@
 # Floating Static Routes Lab
+## Topology
+
+![Topology](topology.png)
 
 ## Task 1: Network Investigation
 

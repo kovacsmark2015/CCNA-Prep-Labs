@@ -1,4 +1,7 @@
 # Spanning Tree Protocol Lab
+## Topology
+
+![Topology](topology.png)
 
 This lab was about practicing everything I learned about Spanning Tree Protocol in the preceding videos:
 

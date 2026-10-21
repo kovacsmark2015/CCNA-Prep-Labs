@@ -1,4 +1,7 @@
 # Static Routing Troubleshooting Lab
+## Topology
+
+![Topology](topology.png)
 
 I found and fixed three misconfigurations in this lab.
 

@@ -1,4 +1,6 @@
 # OSPF Lab: Troubleshooting (Part 3)
+## Topology
+![Topology](topology.png)
 
 This lab was about troubleshooting a single-area OSPF network. I went through five tasks, covering:
 

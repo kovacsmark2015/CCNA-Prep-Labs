@@ -1,5 +1,8 @@
 # Inter-VLAN Routing Lab: Layer 3 Switch with SVIs
 
+## Topology
+
+![Topology](topology.png)
 
 ## R1
 
