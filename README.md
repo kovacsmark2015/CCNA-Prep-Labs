@@ -21,6 +21,7 @@ Each folder contains a packet tracer file completed, which was completed by me o
 | 28 | [OSPF](./Day%2028%20-%20OSPF) | Troubleshooting a single-area OSPF network |
 | 30 | [TCP\&UDP](./Day%2030%20-%20TCP&UDP%20Wireshark) | Capturing packets and analyzing a connection and termination to GitHub |
 | 32  | [IPv6 Configuration (Part 2)](./Day%2032%20-%20IPv6%20Configuration%20Part%202) | EUI-64 addressing, link-local only interfaces and IPv6 static routes with a link-local next hop |
+| 33 | [IPv6 Configuration (Part 3)](./Day%2033%20-%20IPv6%20Configuration%20Part%203%20%28Static%20Routing%29) | SLAAC address generation, IPv6 static routes and a floating static backup route over serial links using link-local next hops |
 
 ## Tools
 
